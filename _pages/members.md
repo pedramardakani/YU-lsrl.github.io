@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /members/
-title: teaching
+title: members
 description: MEMBERS and RESEARCHERS
 nav: true
 nav_order: 3
