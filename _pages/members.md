@@ -2,12 +2,11 @@
 layout: page
 permalink: /members/
 title: members
-description: MEMBERS and RESEARCHERS
+description: 
 nav: true
 nav_order: 3
 ---
-<p><span style="font-size: 18px;"><strong>Scientific Directors</strong></span></p>
-<p><br></p>
+<p><span style="font-size: 22px;"><strong>Scientific Directors</strong></span></p>
 <table style="width: 100%; margin-right: calc(2%);">
     <tbody>
         <tr>
@@ -35,9 +34,7 @@ nav_order: 3
     </tbody>
 </table>
 
-<p><span style="font-size: 18px;"><strong>PhD and Postdocs</strong></span></p>
-<p><br></p>
-
+<p><span style="font-size: 20px;"><strong>PhD and Postdocs</strong></span></p>
 <table style="width: 100%; margin-right: calc(2%);">
     <tbody>
         <tr>
@@ -66,8 +63,6 @@ nav_order: 3
 </table>
 
 <p><span style="font-size: 18px;"><strong>Master&rsquo;s Students</strong></span></p>
-<p><br></p>
-
 <table style="width: 100%; margin-right: calc(2%);">
     <tbody>
         <tr>
@@ -95,8 +90,6 @@ nav_order: 3
     </tbody>
 </table>
 <p><span style="font-size: 18px;"><strong>Undergraduate Students</strong></span></p>
-<p><br></p>
-
 <table style="width: 100%; margin-right: calc(2%);">
     <tbody>
         <tr>
@@ -124,8 +117,6 @@ nav_order: 3
     </tbody>
 </table>
 <p><span style="font-size: 18px;"><strong>Alumni</strong></span></p>
-<p><br></p>
-
 <table style="width: 100%; margin-right: calc(2%);">
     <tbody>
         <tr>
@@ -152,4 +143,3 @@ nav_order: 3
         </tr>
     </tbody>
 </table>
-​<p><br></p>
