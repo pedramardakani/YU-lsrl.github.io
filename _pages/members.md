@@ -1,21 +1,19 @@
 ---
-layout: page
-permalink: /members/
-title: members
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
-nav_order: 3
+layout: about
+title: about
+permalink: /
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: left
+  image: LSRL.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
-<table style="width: 100%;">
-    <tbody>
-        <tr>
-            <td style="width: 50%;"><img src="1.jpg" style="width: 351px; height: 234.292px;"></td>
-            <td style="width: 50%;">
-                <div style="text-align: justify;"><span style="font-family: 'Lucida Console', Monaco, monospace;">Mohammad Ali Haddad</span></div>
-                <div style="text-align: justify;"><span style="font-family: 'Lucida Console', Monaco, monospace;">Group Leader</span></div>
-                <div style="text-align: justify;"><span style="font-family: 'Lucida Console', Monaco, monospace;">Ph.D in Aomic and molecular physics</span></div>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<p><br></p>
