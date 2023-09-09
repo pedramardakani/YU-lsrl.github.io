@@ -11,7 +11,7 @@ nav_order: 3
     <tbody>
         <tr>
             <td style="width: 30%;">{% include figure.html path="assets/img/1.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
         </tr>
     </tbody>
 </table>
