@@ -9,7 +9,7 @@ nav_order: 3
 <table style="width: 100%;">
     <tbody>
         <tr>
-            <td style="width: 50%;"><img src="Koala.jpg" style="width: 351px; height: 234.292px;"></td>
+            <td style="width: 50%;"><img src="1.jpg" style="width: 351px; height: 234.292px;"></td>
             <td style="width: 50%;">
                 <div style="text-align: justify;"><span style="font-family: 'Lucida Console', Monaco, monospace;">Mohammad Ali Haddad</span></div>
                 <div style="text-align: justify;"><span style="font-family: 'Lucida Console', Monaco, monospace;">Group Leader</span></div>
