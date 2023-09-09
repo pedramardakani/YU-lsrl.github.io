@@ -6,6 +6,16 @@ description: MEMBERS and RESEARCHERS
 nav: true
 nav_order: 3
 ---
+<p><span style="font-size: 18px;"><strong>Scientific Directors</strong></span></p>
+<p><br></p>
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
 
 <table style="width: 100%; margin-right: calc(2%);">
     <tbody>
@@ -15,4 +25,131 @@ nav_order: 3
         </tr>
     </tbody>
 </table>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+
+<p><span style="font-size: 18px;"><strong>PhD and Postdocs</strong></span></p>
 <p><br></p>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+
+<p><span style="font-size: 18px;"><strong>Master&rsquo;s Students</strong></span></p>
+<p><br></p>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="font-size: 18px;"><strong>Undergraduate Students</strong></span></p>
+<p><br></p>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="font-size: 18px;"><strong>Alumni</strong></span></p>
+<p><br></p>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="width: 100%; margin-right: calc(2%);">
+    <tbody>
+        <tr>
+            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+        </tr>
+    </tbody>
+</table>
+​<p><br></p>
