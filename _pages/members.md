@@ -6,6 +6,13 @@ description: MEMBERS and RESEARCHERS
 nav: true
 nav_order: 3
 ---
-imgage: 1.jpg
+<!DOCTYPE html>
+<html>
+<body>
 
-Organize your courses by years, topics, or universities, however you like!
+<h2>HTML Image</h2>
+<img src="1.jpg" alt="Trulli" width="500" height="333">
+
+</body>
+</html>
+
