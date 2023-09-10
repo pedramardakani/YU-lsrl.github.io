@@ -41,7 +41,7 @@ nav_order: 2
 <td style="width: 70%;"><strong>Banafshe Taji<br /></strong>Ph.D student in Plasma Physics&nbsp;<br />Research Topic: Atmospheric plasma<br />Email: <a href="mailto:b.taji@stu.yazd.ac.ir">b.taji@stu.yazd.ac.ir</a><br />Now @&nbsp;LSRL &amp; Deprtment of Plasma Physics (YU)</td>
 </tr>
 <tr>
-<td style="width: 30.0%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+<td style="width: 30.0%;">{% include figure.html path="assets/img/as.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
 <td style="width: 70%;"><strong>Abolfazl Sajedi</strong><br />Ph.D student in Atomic and Molecular Physics (2022 to now)<br />Research Topic: Nonlinear Optics<br />Email: <a href="mailto:sajedi_abolfazl@yahoo.com">sajedi_abolfazl@yahoo.com</a><br />Now @&nbsp;LSRL</td>
 </tr>
 </tbody>
