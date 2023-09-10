@@ -89,7 +89,7 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/anh.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;">&nbsp;<strong>Amir Namegh Hasan</strong><br />Master&nbsp;in Atomic and Molecular Physics (2021&nbsp;to 2023)<br />Research Topic: Laser spectroscopy, Nonlinear Optics, Spatial self-phase modulation, Optical switching, Authentication process.<br />Email: <a href="mailto:amirnamiq@gmail.com">amirnamiq@gmail.com</a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;">&nbsp;<strong>Amir Namegh Hasan</strong><br />Master&nbsp;in Atomic and Molecular Physics (2021&nbsp;to 2023)<br />Research Topic: Laser spectroscopy, Nonlinear Optics, Spatial self-phase modulation, Optical switching, Authentication process.<br />Email: <a href="mailto:amirnamiq@gmail.com">amirnamiq@gmail.com</a><br />Now @University of Sulaimani, College of Science, Department of Physics&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">&nbsp;{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
@@ -125,7 +125,7 @@ nav_order: 2
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/paa.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-<td style="width: 70%;"><strong>Pedram Ashofteh Ardakani</strong><br />Master&nbsp;in Atomic and Molecular Physics (2018&nbsp;to&nbsp;2020)<br />Research Topic: Design study of a laser spectrometer using multipass cells<br />Email:&nbsp;<a href="mailto:pedramardakani@pm.me"><span style="font-weight: 400;">pedramardakani@pm.me</span></a><br />Now @&nbsp;LSRL</td>
+<td style="width: 70%;"><strong>Pedram Ashofteh Ardakani</strong><br />Master&nbsp;in Atomic and Molecular Physics (2018&nbsp;to&nbsp;2020)<br />Research Topic: Design study of a laser spectrometer using multipass cells<br />Email:&nbsp;<a href="mailto:pedramardakani@pm.me"><span style="font-weight: 400;">pedramardakani@pm.me</span></a><br />Now @ Software Developer at the GNU Project (Boston, Massachusetts, United States - Remote) and the Iranian National Observatory (Tehran, Iran - Remote)&nbsp;LSRL</td>
 </tr>
 <tr>
 <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
