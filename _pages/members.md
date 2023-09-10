@@ -10,8 +10,8 @@ nav_order: 3
 <table style="width: 100%; margin-right: calc(2%);">
     <tbody>
         <tr>
-            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+            <td style="width: 30%;">{% include figure.html path="assets/img/ab.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Prof. dr. Abbas Behjat</strong><br>Professor of Atomic and Molecular Physics<br>Research Topic: Solar cell and photovoltaic energy<br>Email:abehjat@yazd.ac.ir<br>Now@ LSRL</td>
         </tr>
     </tbody>
 </table>
@@ -19,17 +19,8 @@ nav_order: 3
 <table style="width: 100%; margin-right: calc(2%);">
     <tbody>
         <tr>
-            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
-        </tr>
-    </tbody>
-</table>
-
-<table style="width: 100%; margin-right: calc(2%);">
-    <tbody>
-        <tr>
-            <td style="width: 30%;">{% include figure.html path="assets/img/LSRL.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
-            <td style="width: 70%;"><strong>Mohammad Ali Haddad</strong><br>Assistant professor of atomic and molecular Physics<br>Research Topic:<br>Email:<br>Homepage:<br>Now @ :</td>
+            <td style="width: 30%;">{% include figure.html path="assets/img/mah.jpg" title="example image" width="200" height="200" class="img-fluid rounded z-depth-1" %}</td>
+            <td style="width: 70%;"><strong>Dr. Mohammad Ali Haddad</strong><br>Assistant professor of Atomic and Molecular Physics<br>Research Topic: Laser spectroscopy and Nonlinear optics<br>Email:mahaddad@yazd.ac.ir<br>Now@ LSRL</td>
         </tr>
     </tbody>
 </table>
