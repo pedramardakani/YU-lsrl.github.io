@@ -1,31 +1,16 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title:  <p>Our sumbitted proposal has been awarded 6 operational shifts on the XAFS/XRF beamline at <a href="https://www.sesame.org.jo/">SESAME Synchrotron</a></p>
+date: 2023-08-25 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+<p>The peer review of the proposal you our submitted proposal to SESAME in response to it's on last call has now been completed and we are glad to inform that our proposal 20230090 has been awarded 6 operational shifts on the XAFS/XRF beamline. The award of beamtime comes in recognition of the excellence of our proposal and is an in-kind contribution funded through operational budget. The Synchrotron-Light for Experimental Science and Applications in the Middle East (SESAME) is an independent laboratory located in Allan in the Balqa governorate of Jordan, created under the auspices of UNESCO on 30 May 2002.</p>
+<p>&nbsp;</p>
+![Uploading image.png…]()
 
-***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+<p>XAFS/XRF is a beamline dedicated to X-ray Absorption Spectroscopy. It is built on the bending magnet at the eighth cell of the SESAME storage ring (BM08) and allows access to a wide energy range: from 4.7 to 30 keV, with high photon flux (10<sup>9</sup>-10<sup>12</sup>&nbsp;ph/s) and high beam stability. This meets the needs of a large number of researchers.</p>
+<p>The XAFS/XRF beamline is designed for X-ray spectroscopic studies in all fields of science.</p>
+<p>The monochromatic X-ray beam of XAFS/XRF, combined with the highly-sensitive 64 element silicon drift detector, and the ionization chambers and motorized stages for sample and detector movements offers the synergistic application of X-Ray Absorption and Fluorescence Spectroscopy for multidisciplinary applications.</p>
+<p>This instrument, which has been hosting users since July 2018, may be used in numerous fields of research among which: environmental science, energy storage, cultural heritage, and catalysis, as well as solid state physics and bio-chemistry.&nbsp;</p>
