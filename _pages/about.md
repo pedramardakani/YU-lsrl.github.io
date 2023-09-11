@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: LSRL.png
+  image: LSRL.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Yazd Universiy</p>
