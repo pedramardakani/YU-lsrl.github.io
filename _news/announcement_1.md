@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-8-30 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+<p><strong>Moein Golestanifar</strong> presented sucssesfully his poster entitiled "Enhancment of optical limmiting properties of NMP solvent using MOSe2 nanosheet" in Iranian annual physics conferance at Isfahan University&nbsp;</p>
